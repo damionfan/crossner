@@ -1,9 +1,8 @@
 # crossner
 
-<img src="http://latex.codecogs.com/gif.latex?\begin{table}[!htbp]
-	\centering\resizebox{\linewidth}{!}
-	{
-		\begin{tabular}{|c|ccc|ccc|ccc|}
+<img src="http://latex.codecogs.com/gif.latex?\begin{table}[!htbp]\centering\resizebox{\linewidth}{!}\
+	{\
+		\begin{tabular}{|c|ccc|ccc|ccc|}\
 			\hline
 			&& NCBI-Disease& &&BC5CDR-Disease& &&2010 i2b2/VA&  \\
 			\hline
