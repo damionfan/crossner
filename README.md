@@ -1,7 +1,6 @@
 # crossner
 
-
-\begin{table}[!htbp]
+<img src="http://latex.codecogs.com/gif.latex?\begin{table}[!htbp]
 	\centering\resizebox{\linewidth}{!}
 	{
 		\begin{tabular}{|c|ccc|ccc|ccc|}
@@ -26,4 +25,4 @@
 	}
 	\\
 	\caption{Performance comparison with the SOTA models.}\label{sota}
-\end{table}
+\end{table}" />
